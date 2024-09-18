@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 My name is MD Eshak Khan.<br>I am a Front-End Developer | React JS Developer</h2>
+<h2 align="left">Hi 👋 I'm Masudur Rahman.<br> Front-End Developer | React JS Developer</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshakkhan29&label=Profile%20views&color=0e75b6&style=flat" alt="eshakkhan29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pmmasud111&label=Profile%20views&color=0e75b6&style=flat" alt="pmmasud111" /> </p>
 
 ###
 

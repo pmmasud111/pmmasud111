@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Masudur Rahman.<br> Front-End Developer | React/Next.js Developer</h2>
+<h2 align="left">Hi 👋 I'm Masudur Rahman.<br> Front-End Developer | React / Next.js Developer</h2>
 
 ###
 
